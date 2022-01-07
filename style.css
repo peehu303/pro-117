@@ -1,0 +1,32 @@
+body
+{
+    background-color:#39fbf1;
+}
+
+#score{
+    font-size: 20px;
+    margin-left:50px;
+    float: left;
+}
+#timer{
+    font-size: 20px;
+    float: right;
+    margin-right: 50px;
+}
+#SketchToBeDrawn{
+    font-size: 30px;
+    background-color: blueviolet;
+    color: white;
+}
+h1
+{
+  
+
+  color: rgb(255, 94, 0);  
+  background-color: cornsilk;
+}
+
+#show_sketch
+{
+    float: right;
+}
